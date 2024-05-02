@@ -1,0 +1,3 @@
+sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+
+mdp:3d7a5106be114a20a9f51992d916849f
